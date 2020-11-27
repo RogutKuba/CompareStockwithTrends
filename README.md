@@ -3,7 +3,7 @@
 * This project will allow you to compare the stock price of a stock to its number of google searches and amount of times it has been mentioned on reddit over the past 24 hours, 5 days, two weeks or month. The home page also shows the trending stocks on google, as to give suggestions for stocks to look at.
 * The idea behind this was to see the correlation between google searches and stock prices, and possibly to see if a spike in google and reddit mentions means that the price will go up or down.
 * ```diff
-  - As of Nov 26, 2020 the API used for the reddit mentions is not outputting results
+  - As of Nov 26, 2020 the API used for the reddit mentions is not outputting results so no reddit data is shown on the graph
   ```
 
 --------------------------------------
